@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ian-Inizias
+- 👋 Hi, I’m @Ian-Inizias and @Ian-Liceranzu (Personal account)
 - 👀 I’m interested in graph tools, white/black box monitoring, metrics, tracing...
-- 🌱 I’m currently learning C# & .NET & .NET CORE
+- 🌱 I’m currently learning (working with since 2016) C# & .NET & .NET CORE
 - 💞️ I’m on many projects at the moment, so not interested in adding more to the list
 - 📫 How to reach me ...
 
